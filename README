@@ -1,4 +1,4 @@
-
+Modified from: http://www.datsi.fi.upm.es/~frosal/
 Purpose:
 
 	A generic shell script compiler. Shc takes a script, which is
